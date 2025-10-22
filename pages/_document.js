@@ -7,6 +7,7 @@ export default function Document() {
         {/* Global meta tags */}
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" href="/xiaohu.jpeg" type="image/jpeg" />
 
         {/* Global Open Graph */}
         <meta property="og:type" content="website" />
