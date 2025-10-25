@@ -76,6 +76,7 @@ export default function Home() {
           name="description"
           content="Comfortable, modern, and thoughtfully designed Airbnb stays across Malaysia. Enjoy bright interiors for a seamless experience."
         />
+        <link rel="canonical" href="https://www.misslimsharing.com/" />
 
         {/* Open Graph – homepage */}
         {/* <meta property="og:title" content="Miss Lim Sharing | Lovely Airbnb Stays in Malaysia" />
