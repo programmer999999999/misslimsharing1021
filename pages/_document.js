@@ -26,7 +26,7 @@ export default function Document() {
               "@type": "LodgingBusiness",
               "name": "Miss Lim Sharing",
               "description": "Comfortable, modern, and thoughtfully designed Airbnb stays across Malaysia. Enjoy bright interiors, fast Wi-Fi, and self check-in for a seamless experience.",
-              "image": "https://misslimsharing.com/og-image.png",
+              "image": "https://www.misslimsharing.com/xiaohu.jpeg",
               "url": "https://www.misslimsharing.com",
               "priceRange": "$$",
               "address": {
@@ -49,3 +49,4 @@ export default function Document() {
     </Html>
   );
 }
+
